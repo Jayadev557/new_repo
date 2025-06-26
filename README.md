@@ -1,1 +1,2 @@
-# new_repo
+# infra_automaion with variable. 
+# Resources : RG, Vnet, Subnet, SQL Server, SQL DB, Key Vault, Virtual Machine, Backend VM, Frontend VM, Public IP...
